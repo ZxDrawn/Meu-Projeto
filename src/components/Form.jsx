@@ -11,7 +11,7 @@ function Form() {
       form.appendChild(p);
       div.appendChild(form);
     }
-
+    // let nova = 0;
     input.value = "";
   }
 
